@@ -1,4 +1,4 @@
-##Overview
+#Overview
 
 The Movies Search App is a React-based application that allows users to search for movies using the OMDB API. Users can view detailed information about each movie, manage a favorites list, and filter search results by movie type.
     
