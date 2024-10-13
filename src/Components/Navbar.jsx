@@ -12,7 +12,7 @@ const Navbar = ({ query, setQuery, handleSearch, type, setType }) => {
     <nav className="fixed top-0 left-0 w-full bg-gray-900 text-white shadow-lg z-50">
       <div className="container mx-auto flex flex-col items-center sm:flex sm:flex-row sm:items-center sm:justify-between p-4">
         <div className="flex gap-2 text-lg font-bold">
-          <img src="public/MW.png" alt="Movie-World" className='w-10 h-10 scale-125' />
+          <img src="/MW.png" alt="Movie-World" className='w-10 h-10 scale-125' />
           <Link to="/" 
           
           className="text-2xl hover:text-gray-300">Movie World</Link>
